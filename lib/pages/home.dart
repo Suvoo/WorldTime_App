@@ -15,7 +15,7 @@ class _HomeState extends State<Home> {
 
     data = data.isNotEmpty ? data : ModalRoute.of(context).settings.arguments;
     print(data);
-// background depends on time ===>
+
 
     //String bgImage = data['isDaytime'] ? 'day.png' : 'night.png';
 
