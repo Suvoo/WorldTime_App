@@ -1,6 +1,6 @@
-# worldtime
+# World Time App
 
-A new Flutter application.
+An app which helps to view the different time zones all over the globe .
 
 ## Getting Started
 
