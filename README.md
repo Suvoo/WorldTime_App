@@ -1,6 +1,6 @@
 # World Time App
 
-An app which helps to view the different time zones around the world in 24 hrs format.
+An app which helps to view the different time zones around the world in 24 hrs format made with youtube channel netninjas
 
 ## Getting Started
 
